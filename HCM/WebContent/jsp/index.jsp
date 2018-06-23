@@ -6,6 +6,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+ Welcome to the HCM
 </body>
 </html>
